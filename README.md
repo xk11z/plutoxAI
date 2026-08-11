@@ -11,6 +11,13 @@
 - 🔗 双环境支持互通联动，可通过MCP协议实现AI模型跨环境统一调度各类安全工具
 
 ## 📌 下载安装
+开机密码mwx123!@#,pentagi为默认账号密码，其他web登录账号密码为admin：pluto@2026
+### 百度网盘扫码
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/e45e01f5-15ed-436c-98ed-4bd21158aafa" />
+
+通过网盘分享的文件：AIxpluto.7z
+链接: https://pan.baidu.com/s/1S7tTPqPHO-58fmwnwiuczQ?pwd=kekp 提取码: kekp 
+--来自百度网盘超级会员v9的分享
 
 
 - 截图展示部分工具
