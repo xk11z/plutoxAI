@@ -87,8 +87,8 @@
 
 ## ✨交流群
 
-<img width="351" height="442" alt="屏幕截图 2026-08-12 195705" src="https://github.com/user-attachments/assets/a341342a-14c3-4c17-a60b-503e3b5ebf95" />
 
+<img width="302" height="404" alt="屏幕截图 2026-08-19 202957" src="https://github.com/user-attachments/assets/89a929c5-c766-4282-af66-02a1e2493a02" />
 
 
 ## ✨参考项目
