@@ -46,10 +46,6 @@ plutoxai•臻 为 plutoxai 升级版，本系统基于 **Windows + WSL (Kali Li
 <img width="478" height="306" alt="屏幕截图 2026-08-26 203317" src="https://github.com/user-attachments/assets/4f15406b-339b-44ed-a841-5b4230095968" />
 
 
-- AI渗透工具
-  
-<img width="643" height="341" alt="屏幕截图 2026-08-12 000559" src="https://github.com/user-attachments/assets/76cdd166-1bf0-472d-ac70-ee894013d050" />
-
 - web渗透工具
 
 <img width="1366" height="768" alt="Snipaste_2026-08-25_15-38-47" src="https://github.com/user-attachments/assets/61eccadf-1171-47a1-baf0-7e077e761171" />
